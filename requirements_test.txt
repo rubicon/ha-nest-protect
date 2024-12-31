@@ -1,6 +1,6 @@
 -r requirements_dev.txt
 
-pytest==7.1.3
-pytest-socket==0.5.1
-pytest-homeassistant-custom-component==0.12.14 # 2022.11.0b3
-pytest-timeout==2.1.0
+pytest
+pytest-socket
+pytest-homeassistant-custom-component==0.13.191
+pytest-timeout
